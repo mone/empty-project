@@ -29,3 +29,8 @@
 
 
 # Episode 2
+
+# Excercise
+
+[https://github.com/trayio/scala-be-interview/blob/master/task5/src/main/scala/io/tray/UserScoreService.scala](https://github.com/trayio/scala-be-interview/blob/master/task5/src/main/scala/io/tray/UserScoreService.scala)
+[https://github.com/trayio/scala-be-interview/blob/master/task1/src/main/scala/io/tray/services/WorkflowService.scala](https://github.com/trayio/scala-be-interview/blob/master/task1/src/main/scala/io/tray/services/WorkflowService.scala)
