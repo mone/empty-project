@@ -30,7 +30,32 @@
 
 # Episode 2
 
-# Excercise
+## Stuff
+* if
+* Match
+* Collections
+    * List
+* Monads
+    * Either
+    * Try
+    * Option
+* for-comprehension
+
+## Excercise
 
 [https://github.com/trayio/scala-be-interview/blob/master/task5/src/main/scala/io/tray/UserScoreService.scala](https://github.com/trayio/scala-be-interview/blob/master/task5/src/main/scala/io/tray/UserScoreService.scala)
 [https://github.com/trayio/scala-be-interview/blob/master/task1/src/main/scala/io/tray/services/WorkflowService.scala](https://github.com/trayio/scala-be-interview/blob/master/task1/src/main/scala/io/tray/services/WorkflowService.scala)
+
+# Episode 3
+
+* Implicits
+* currying
+* partial function
+* Futures
+* Value Classes
+* Tagged types
+* Pure config
+
+## Excercise
+
+[https://github.com/trayio/scala-be-interview/blob/master/task2/src/main/scala/io/tray/services/UserService.scala]
